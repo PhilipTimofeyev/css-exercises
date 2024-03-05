@@ -1,0 +1,19 @@
+p {  
+	background-color: #e69691;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#num-two {
+	color: #1f6bde;
+	font-size: 36px;
+}
+
+.sub-odd {
+	font-size: 24px;
+}
+
+#num-four {
+	background-color: #8ce696;
+	font-weight: bold;
+	font-size: 24px;
+}
